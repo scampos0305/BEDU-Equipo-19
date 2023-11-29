@@ -1,13 +1,13 @@
-package org.bedu.java.backend.crm;
+package org.bedu.java.backend.pet;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class CrmApplication {
+public class PetApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(CrmApplication.class, args);
+		SpringApplication.run(PetApplication.class, args);
 	}
 
 }
